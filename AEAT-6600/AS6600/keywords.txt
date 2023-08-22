@@ -1,0 +1,4 @@
+AS6600	KEYWORD1
+init	KEYWORD2
+disable	KEYWORD2
+magnetError	KEYWORD2
